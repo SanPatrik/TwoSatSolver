@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSatSolver", "TwoSatSolver\TwoSatSolver.csproj", "{856CBBA1-AE41-47AA-A472-10543BC5B959}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{856CBBA1-AE41-47AA-A472-10543BC5B959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856CBBA1-AE41-47AA-A472-10543BC5B959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856CBBA1-AE41-47AA-A472-10543BC5B959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856CBBA1-AE41-47AA-A472-10543BC5B959}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
